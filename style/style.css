@@ -127,7 +127,7 @@ body {
 .offer__holder {
     display: flex;
     flex-direction: column;
-    background: url(/img/Spot.png) no-repeat top left;
+    background: url(../img/Spot.png) no-repeat top left;
     background-size: contain;
     width: 632px;
     height: 100%;
@@ -137,7 +137,7 @@ body {
     display: flex;
     height: 760px;
     width: 800px;
-    background: url(/img/female.png) no-repeat;
+    background: url(../img/female.png) no-repeat;
     background-position: 300px bottom;
 }
 
@@ -532,7 +532,7 @@ footer {
     .offer__prof {
         width: 94vw;
         height: 100vh;
-        background: url(/img/female.png) no-repeat;
+        background: url(../img/female.png) no-repeat;
         background-position: right bottom;
         background-size: contain;
     }
